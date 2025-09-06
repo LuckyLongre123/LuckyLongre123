@@ -146,9 +146,9 @@ I'm a passionate **Full Stack Developer** and **Problem Solving Enthusiast** fro
 </div>
 
 ---
-
+![snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
- ![snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+ 
 
   <p>Made with ❤️ by Lucky Longre</p>
 </div>
