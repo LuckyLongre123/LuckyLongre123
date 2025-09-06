@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=32&duration=2000&pause=1200&color=61DAFB&center=true&vCenter=true&width=650&height=70&lines=Hi%20There!%20%F0%9F%91%8B%20I%27m%20Lucky%20Longre;Full-Stack%20Developer%20%E2%9A%A1;Problem%20Solver%20%26%20Tech%20Enthusiast;Crafting%20Digital%20Experiences%20%F0%9F%8C%90;Building%20the%20Future%20with%20Code%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=32&duration=2000&pause=1200&color=61DAFB&center=true&vCenter=true&width=750&height=70&lines=Hi%20There!%20%F0%9F%91%8B%20I'm%20Lucky%20Longre;Full-Stack%20Developer%20%E2%9A%A1;DSA%20Learner%20%26%20Problem%20Solver%20%E2%9C%A8;Tech%20Enthusiast%20%26%20Coder%20%F0%9F%92%BB;Crafting%20Digital%20Experiences%20%F0%9F%8C%90;Building%20the%20Future%20with%20Code%20%F0%9F%9A%80" alt="Typing SVG" />
+
   
   <a href="https://lucky-longre.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-lucky--longre.onrender.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
