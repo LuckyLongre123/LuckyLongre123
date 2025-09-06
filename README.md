@@ -146,7 +146,14 @@ I'm a passionate **Full Stack Developer** and **Problem Solving Enthusiast** fro
 </div>
 
 ---
-![snake animation](https://github.com/LuckyLongre123/LuckyLongre123/blob/output/github-contribution-grid-snake.svg)
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 <div align="center">
  
 
