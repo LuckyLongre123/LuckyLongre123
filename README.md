@@ -146,13 +146,8 @@ I'm a passionate **Full Stack Developer** and **Problem Solving Enthusiast** fro
 </div>
 
 ---
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div align="center">
  
