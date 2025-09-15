@@ -107,7 +107,7 @@ I'm a passionate **Full Stack Developer** and **Problem Solving Enthusiast** fro
   [![Portfolio](https://img.shields.io/badge/Portfolio-React%20%7C%20Node.js%20%7C%20MongoDB-blue?style=for-the-badge)](https://lucky-longre.onrender.com/)
   > Professional developer portfolio showcasing skills and projects with modern design
   
-  ### ⚡ ShadowX Frontend
+  ### ⚡ ShadowX
   [![ShadowX](https://img.shields.io/badge/ShadowX-MERN%20Stack%20Application-green?style=for-the-badge)](https://shadowx-frontend.onrender.com/)
   > Full-stack web application with modern UI/UX and responsive design
   
