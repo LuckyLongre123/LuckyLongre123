@@ -219,28 +219,28 @@ A responsive portfolio website showcasing my journey, skills, and projects. Buil
 
 <div align="center">
 
-### ⚡ ShadowX Platform
+### 🎓 EduShare Platform
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 </div>
 
-A full-stack web application built with MERN stack, featuring modern UI/UX design, secure authentication, and optimized performance.
+A full-stack educational notes sharing platform enabling seamless resource sharing between students and teachers across institutions with admin moderation.
 
 **✨ Key Features:**
-- 🚀 Fast, responsive interface
-- 🔐 Secure user authentication
-- 📊 Real-time data handling
-- 🎨 Modern design patterns
-- 🛡️ Security best practices
+- 🔐 Role-based authentication system
+- 📁 File upload with validation
+- 🔍 Advanced search & filtering
+- 👨‍💼 Complete admin panel
+- 💬 Community engagement features
 
 <div align="center">
-<a href="https://shadowx-frontend.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Explore-Live_App-7209B7?style=for-the-badge&logo=rocket&logoColor=white" />
+<a href="http://edushere-luckylongre.free.nf/" target="_blank">
+  <img src="https://img.shields.io/badge/🎓_Live_Demo-Educational_Platform-4CC9F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </div>
 
