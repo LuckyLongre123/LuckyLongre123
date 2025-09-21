@@ -362,5 +362,7 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
   
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=2000&color=9D4EDD&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+stopping+by!+🙏;Let's+create+something+amazing+together!+🚀" />
+ <div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=2000&color=9D4EDD&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+stopping+by!+🙏;Let's+create+something+amazing+together!+🚀" />
+</div>
 </div>
