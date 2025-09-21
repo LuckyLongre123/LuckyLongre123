@@ -177,6 +177,7 @@ I'm a passionate **2nd Year Computer Science Student** at **Ramanujan College, D
 ### 🎯 DSA Journey
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1200&color=F72585&center=true&vCenter=true&width=750&height=100&lines=🔥+Daily+Practice+Makes+Perfect;🧠+Solving+Problems+Systematically;🎯+Building+Strong+Foundations;💡+Learning+from+Every+Challenge;🚀+Growing+Stronger+Each+Day!" />
+
 </div>
 
 ---
@@ -219,28 +220,28 @@ A responsive portfolio website showcasing my journey, skills, and projects. Buil
 
 <div align="center">
 
-### 🎓 EduShare Platform
+### ⚡ ShadowX Platform
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 </div>
 
-A full-stack educational notes sharing platform enabling seamless resource sharing between students and teachers across institutions with admin moderation.
+A full-stack web application built with MERN stack, featuring modern UI/UX design, secure authentication, and optimized performance.
 
 **✨ Key Features:**
-- 🔐 Role-based authentication system
-- 📁 File upload with validation
-- 🔍 Advanced search & filtering
-- 👨‍💼 Complete admin panel
-- 💬 Community engagement features
+- 🚀 Fast, responsive interface
+- 🔐 Secure user authentication
+- 📊 Real-time data handling
+- 🎨 Modern design patterns
+- 🛡️ Security best practices
 
 <div align="center">
-<a href="http://edushere-luckylongre.free.nf/" target="_blank">
-  <img src="https://img.shields.io/badge/🎓_Live_Demo-Educational_Platform-4CC9F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://shadowx-frontend.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore-Live_App-7209B7?style=for-the-badge&logo=rocket&logoColor=white" />
 </a>
 </div>
 
@@ -281,28 +282,28 @@ A comprehensive collection of Data Structures & Algorithms implementations with 
 
 <div align="center">
 
-### 📺 StreamTube Backend
+### 🎓 EduShare Platform
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 </div>
 
-Complete backend infrastructure for a video streaming platform with robust API design, secure file handling, and efficient database management.
+A full-stack educational notes sharing platform enabling seamless resource sharing between students and teachers across institutions with admin moderation.
 
 **✨ Key Features:**
-- 🔌 RESTful API architecture
-- 📹 Video upload & processing
-- 👥 User management system
-- 🔐 JWT authentication
-- 📊 Performance optimization
+- 🔐 Role-based authentication system
+- 📁 File upload with validation
+- 🔍 Advanced search & filtering
+- 👨‍💼 Complete admin panel
+- 💬 Community engagement features
 
 <div align="center">
-<a href="https://github.com/LuckyLongre123/Backend-YT-Clone" target="_blank">
-  <img src="https://img.shields.io/badge/🎥_View_Backend-API_Code-4CC9F0?style=for-the-badge&logo=server&logoColor=white" />
+<a href="http://edushere-luckylongre.free.nf/" target="_blank">
+  <img src="https://img.shields.io/badge/🎓_Live_Demo-Educational_Platform-4CC9F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </div>
 
