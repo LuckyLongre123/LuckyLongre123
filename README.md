@@ -176,8 +176,7 @@ I'm a passionate **2nd Year Computer Science Student** at **Ramanujan College, D
 
 ### 🎯 DSA Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1200&color=F72585&center=true&vCenter=true&width=750&height=100&lines=🔥+Daily+Practice+Makes+Perfect;🧠+Solving+Problems+Systematically;🎯+Building+Strong+Foundations;💡+Learning+from+Every+Challenge;🚀+Growing+Stronger+Each+Day!" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1200&color=F72585&center=true&vCenter=true&width=750&height=100&lines=🔥+Daily+Practice+Makes+Perfect;🧠+Solving+Problems+Systematically;🎯+Building+Strong+Foundations;💡+Learning+from+Every+Challenge;🚀+Growing+Stronger+Each+Day!" />
 </div>
 
 ---
