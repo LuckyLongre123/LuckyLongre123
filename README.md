@@ -323,10 +323,9 @@ A full-stack educational notes sharing platform enabling seamless resource shari
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=🤝+Let's+Build+Something+Amazing!;💻+Open+to+Collaboration;🚀+Ready+for+New+Opportunities;🌟+Growing+Together+in+Tech!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2200&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=🤝+Let's+Build+Something+Amazing!;💻+Open+to+Collaboration;🚀+Ready+for+New+Opportunities;🌟+Growing+Together+in+Tech!" />
 
 I'm always excited to connect with fellow developers, discuss new technologies, collaborate on projects, or explore career opportunities. Let's grow and learn together! 🌱
-
 <div style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/lucky-longre/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
