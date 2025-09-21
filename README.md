@@ -343,7 +343,7 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
 
 ### 💡 Fun Facts About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1500&color=F72585&center=true&vCenter=true&width=700&height=70&lines=☕+Fueled+by+coffee+and+curiosity;🐛+I+find+debugging+oddly+satisfying;📚+Always+learning+something+new;🔄+Code%2C+Learn%2C+Improve%2C+Repeat!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2800&pause=1500&color=F72585&center=true&vCenter=true&width=700&height=70&lines=☕+Fueled+by+coffee+and+curiosity;🐛+I+find+debugging+oddly+satisfying;📚+Always+learning+something+new;🔄+Code%2C+Learn%2C+Improve%2C+Repeat!" />
 
 </div>
 
