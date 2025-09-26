@@ -174,7 +174,8 @@ I'm a passionate **2nd Year Computer Science Student** at **Ramanujan College, D
 
 ### ⚡ Problem Solving Stats
 
-<img src="https://leetcard.jacoblin.cool/Lucky_Longre_SD?theme=dark&ext=contest,solved,streak&font=Inter&border=2&border_color=9D4EDD&radius=15" width="85%" />
+<img src="https://leetcard.jacoblin.cool/Lucky_Longre_SD?theme![LeetCode Stats](https://leetcard.jacoblin.cool/Lucky_Longre_SD?theme=dark&ext=contest,solved,streak&font=Inter&border=2&border_color=9D4EDD&radius=15)
+=dark&ext=contest,solved,streak&font=Inter&border=2&border_color=9D4EDD&radius=15" width="85%" />
 
 
 ### 🎯 DSA Journey
