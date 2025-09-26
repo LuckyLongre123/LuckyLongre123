@@ -216,9 +216,9 @@ A responsive portfolio website showcasing my journey, skills, and projects. Buil
 <a href="https://lucky-longre.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-9D4EDD?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
-<a href="https://github.com/LuckyLongre123/Personal-Portfolio" target="_blank">
+<!-- <a href="https://github.com/LuckyLongre123/Personal-Portfolio" target="_blank">
   <img src="https://img.shields.io/badge/💻_View_Code-Repository-F72585?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a> -->
 </div>
 
 </td>
@@ -249,9 +249,9 @@ A full-stack web application built with MERN stack, featuring modern UI/UX desig
 <a href="https://shadowx-frontend.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Explore-Live_App-7209B7?style=for-the-badge&logo=rocket&logoColor=white" />
 </a>
-<a href="https://github.com/LuckyLongre123/ShadowX" target="_blank">
+<!-- <a href="https://github.com/LuckyLongre123/ShadowX" target="_blank">
   <img src="https://img.shields.io/badge/💻_View_Code-Repository-F72585?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a> -->
 </div>
 
 </td>
@@ -261,7 +261,7 @@ A full-stack web application built with MERN stack, featuring modern UI/UX desig
 
 <div align="center">
 
-### 🧠 DSA Learning Hub
+### 🧠 DSA MASTERY REPO
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
