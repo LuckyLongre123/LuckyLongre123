@@ -66,12 +66,6 @@ I'm a passionate **2nd Year Computer Science Student** at **Ramanujan College, D
 - 📚 Learning new technologies
 - 🔧 Solving real-world problems
 
-**🎯 Goals for 2024:**
-- Master advanced algorithms
-- Build 5+ full-stack projects  
-- Contribute to open source
-- Land my first tech role
-
 **💭 Philosophy:**
 *"Every line of code is a step towards mastery, every bug is a lesson learned."*
 
