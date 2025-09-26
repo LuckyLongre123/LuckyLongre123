@@ -216,6 +216,9 @@ A responsive portfolio website showcasing my journey, skills, and projects. Buil
 <a href="https://lucky-longre.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-9D4EDD?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
+<a href="https://github.com/LuckyLongre123/Personal-Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/💻_View_Code-Repository-F72585?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 </td>
@@ -245,6 +248,9 @@ A full-stack web application built with MERN stack, featuring modern UI/UX desig
 <div align="center">
 <a href="https://shadowx-frontend.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Explore-Live_App-7209B7?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+<a href="https://github.com/LuckyLongre123/ShadowX" target="_blank">
+  <img src="https://img.shields.io/badge/💻_View_Code-Repository-F72585?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
@@ -276,7 +282,7 @@ A comprehensive collection of Data Structures & Algorithms implementations with 
 
 <div align="center">
 <a href="https://github.com/LuckyLongre123/DSA_CPP" target="_blank">
-  <img src="https://img.shields.io/badge/💻_View_Code-DSA_Repository-F72585?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_View_Code-DSA_Repository-F72585?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
@@ -308,6 +314,9 @@ A full-stack educational notes sharing platform enabling seamless resource shari
 <a href="http://edushere-luckylongre.free.nf/" target="_blank">
   <img src="https://img.shields.io/badge/🎓_Live_Demo-Educational_Platform-4CC9F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+<a href="https://github.com/LuckyLongre123/EduShare" target="_blank">
+  <img src="https://img.shields.io/badge/💻_View_Code-Repository-F72585?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 </td>
@@ -319,6 +328,7 @@ A full-stack educational notes sharing platform enabling seamless resource shari
   <img src="https://img.shields.io/badge/🔍_View_All_Projects-GitHub_Repositories-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
+
 
 ---
 
