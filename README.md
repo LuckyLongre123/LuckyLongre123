@@ -108,8 +108,13 @@ I'm a passionate **2nd Year Computer Science Student** at **Ramanujan College, D
 ### ⌨️ Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### 📜 Scripting Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
@@ -122,6 +127,7 @@ I'm a passionate **2nd Year Computer Science Student** at **Ramanujan College, D
 </p>
 
 </div>
+
 
 ### 📈 Learning Progress
 
