@@ -16,7 +16,6 @@ Currently pursuing B.Voc Software Development at Ramanujan College, University o
 ## Live Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckyLongre123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
-
 ---
 
 ## Projects
@@ -33,7 +32,7 @@ A 6-stage AI pipeline that ingests raw project files, maps stakeholders, extract
 
 **Stack:** React 19 · TypeScript · Node.js · Express · MongoDB · Prisma · Google Gemini API · TailwindCSS
 
-[Live Demo](https://your-anvaya-live-link.com) · [GitHub](https://github.com/Sem1-LuckyLongre/Anvaya.AI) · [YouTube Tutorial](https://your-yt-link.com)
+[Live Demo](anvaya-ai-team-ramanujan.vercel.app) · [GitHub](https://github.com/kushkumarkashyap7280/Anvaya.AI-TeamRamanujan) 
 
 ---
 
