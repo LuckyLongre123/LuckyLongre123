@@ -15,7 +15,8 @@ Currently pursuing B.Voc Software Development at Ramanujan College, University o
 
 ## Live Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckyLongre123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckyLongre123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&v=2)
+
 ---
 
 ## Projects
