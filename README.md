@@ -11,7 +11,7 @@ Currently pursuing B.Voc Software Development at Ramanujan College, University o
 ## Social & Stats
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucky-longre/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/Lucky_Longre_SD)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/Lucky_Longre)
 
 ## Live Stats
 
