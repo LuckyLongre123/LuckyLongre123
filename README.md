@@ -112,14 +112,6 @@ Personal portfolio with dark/light mode via React Context API, 10+ modular compo
 
 ---
 
-## Currently Learning
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- API Integration
-- Contributing to open source
-
----
-
 ## Education
 
 **B.Voc Software Development** Ramanujan College, University of Delhi · 2024–2027
