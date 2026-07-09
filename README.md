@@ -2,16 +2,16 @@
 
 **Full Stack Developer** · New Delhi, India
 
-I build software for real users — from a fee management system for a 30-year-old NGO serving 100+ slum children, to an AI pipeline that finished **top 15 out of 3,500+ teams** at HackFest 2.0 by GDG New Delhi.
+I build software for real users — from a fee management system for a 30-year-old NGO serving 100+ slum children, to a production-grade AI blogging platform, to an AI pipeline that finished **top 15 out of 3,500+ teams** at HackFest 2.0 by GDG New Delhi.
 
-Currently pursuing B.Voc Software Development at Ramanujan College, University of Delhi (2024–2027).
+Currently pursuing B.Voc Software Development at Ramanujan College, University of Delhi (2024–2028). Selected **Contributor** for **GirlScript Summer of Code (GSSoC) 2026** — Open-Source Track.
 
 ---
 
 ## Social & Stats
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucky-longre/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/Lucky_Longre)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/LuckyLongre)
 
 ## Live Stats
 
@@ -20,6 +20,22 @@ Currently pursuing B.Voc Software Development at Ramanujan College, University o
 ---
 
 ## Projects
+
+### DevPostS Pro — AI-Powered Blogging Platform
+> Full Stack · Production-Grade · Solo Project
+
+A professional blogging platform built with Next.js 16 (App Router) featuring AI-powered content enhancement, role-based access control, and a full admin dashboard — built to be fast, SEO-optimized, and distraction-free.
+
+- Full-stack app across 15,000+ lines of code: 18 REST API routes, 78 React components, 4 database models
+- AI content enhancement via Google Gemini, with per-user daily token quotas
+- JWT authentication (HttpOnly cookies) with role-based access control, bcrypt hashing, and Zod validation on every input
+- Cloudinary-backed image uploads, admin dashboard with optimistic UI updates, and 100% SEO coverage (dynamic sitemap, OpenGraph, JSON-LD)
+
+**Stack:** Next.js 16 · React 19 · TypeScript · PostgreSQL · Prisma · Tailwind CSS v4 · Google Gemini API · Cloudinary
+
+[Live Demo](https://devposts-pro.vercel.app) · [GitHub](https://github.com/LuckyLongre123/devposts-pro)
+
+---
 
 ### Anvaya.AI — AI-Powered BRD Generation Platform
 > Top 15 · HackFest 2.0 by GDG New Delhi · 3,500+ teams
@@ -33,7 +49,7 @@ A 6-stage AI pipeline that ingests raw project files, maps stakeholders, extract
 
 **Stack:** React 19 · TypeScript · Node.js · Express · MongoDB · Prisma · Google Gemini API · TailwindCSS
 
-[Live Demo](anvaya-ai-team-ramanujan.vercel.app) · [GitHub](https://github.com/kushkumarkashyap7280/Anvaya.AI-TeamRamanujan) 
+[Live Demo](https://anvaya-ai-team-ramanujan.vercel.app) · [GitHub](https://github.com/kushkumarkashyap7280/Anvaya.AI-TeamRamanujan)
 
 ---
 
@@ -66,7 +82,22 @@ A notes-sharing platform for students and teachers across colleges — live and 
 
 **Stack:** PHP · MySQL · JavaScript · Bootstrap · jQuery
 
-[Live](https://edushere-luckylongre.free.nf) · [GitHub](https://github.com/LuckyLongre123/EduShare)
+[Live](https://edushare.onrender.com/) · [GitHub](https://github.com/LuckyLongre123/Edushare)
+
+---
+
+### ShadowXHub — Social Blogging Platform
+> Live Deployed · Full Stack · Solo Project
+
+A server-rendered social platform with a global post feed — built with zero frontend framework dependencies.
+
+- MVC architecture with pure server-side rendering (Express + EJS)
+- Session-based authentication and route guards
+- Global post feed shared across all users
+
+**Stack:** Node.js · Express · MongoDB · EJS · JavaScript
+
+[Live](https://shadowxhub.onrender.com/) · [GitHub](https://github.com/LuckyLongre123/ShadowXHub)
 
 ---
 
@@ -81,10 +112,20 @@ Personal portfolio with dark/light mode via React Context API, 10+ modular compo
 
 ---
 
+## Achievements
+
+- 🏆 **Top 15 Semi-Finalist** — HackFest 2.0 by GDG New Delhi (3,500+ teams)
+- 🚀 **Selected Contributor** — GirlScript Summer of Code (GSSoC) 2026, Open-Source Track
+- 🧩 **100+ DSA problems** solved on LeetCode
+- 🛠️ **5 full-stack apps** shipped independently across LAMP, MERN, and Next.js/AI-integrated stacks
+
+---
+
 ## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -99,6 +140,7 @@ Personal portfolio with dark/light mode via React Context API, 10+ modular compo
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & APIs
@@ -108,16 +150,17 @@ Personal portfolio with dark/light mode via React Context API, 10+ modular compo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## Education
 
-**B.Voc Software Development** Ramanujan College, University of Delhi · 2024–2027
+**B.Voc Software Development** Ramanujan College, University of Delhi · 2024–2028
 
 ---
 
 ## Connect
 
-[Portfolio](https://lucky-longre.onrender.com) · [LinkedIn](https://www.linkedin.com/in/lucky-longre/) · [LeetCode](https://leetcode.com/Lucky_Longre_SD) · officialluckylongre@gmail.com
+[Portfolio](https://lucky-longre.onrender.com) · [LinkedIn](https://www.linkedin.com/in/lucky-longre/) · [LeetCode](https://leetcode.com/u/LuckyLongre) · officialluckylongre@gmail.com
